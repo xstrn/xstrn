@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @xstrn3 aka Stepa aka Stephan
+- 👋 Hi, I’m @xstrn Stepan Vasilev
 - 👀 I’m interested in movies, PC games, and sports
 - 🌱 I’m currently learning QA manual
 - 💞️ I’m looking to collaborate on - YES
-- 📫 How to reach me telegram @xstrn3
-- 😄 Pronouns: russian, engliash A2
+- 📫 How to reach me: telegram @xstrn3
+- 😄 Pronouns: russian, english A2
 - ⚡ Fun fact: I am red-haired
 
 <!---
